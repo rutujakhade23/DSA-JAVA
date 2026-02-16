@@ -1,8 +1,4 @@
 # DSA-JAVA
-# DSA Practice (Java)
-
-# DSA Practice (Java)
-
 ## 📌 About
 This repository contains my Data Structures and Algorithms practice 
 for placement preparation (3rd Year).
