@@ -1,3 +1,10 @@
+//Problem : Maximum subarray (kadanes's algo)
+//platform : leetcode 
+//approach : 1.Keep current sum (cs)
+//2. update maxsum at each step
+//3. if cs becomes negative , reset to 0
+// time complexity : O(n)  and Space complexity : O(1)
+
 import java.util.*;
 
 public class Kadane {
