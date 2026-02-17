@@ -1,15 +1,41 @@
-# DSA-JAVA
+# DSA Practice in JAVA 
 ## 📌 About
-This repository contains my Data Structures and Algorithms practice 
-for placement preparation (3rd Year).
+I am currently practicing Data Structures and Algorithms in Java.
+This repository contains topic-wise organized DSA problems that I solve daily.
 
-Currently focusing on mastering fundamentals before moving to advanced topics.
+🎯 Goal: Strengthen problem solving and prepare for placements.
+
 
 ## 🚀 Language Used
 - Java
 
 ## 📚 Topics Covered
-- Arrays
+- ## 📚 Topics Covered
+
+- ✅ Arrays
+- ✅ Sorting
+- 🔄 Two Pointers
+- 🔄 Pascal's Triangle
+- ⏳ Strings (Coming Soon)
+- ⏳ Recursion (Coming Soon)
+- ⏳ Linked List
+- ⏳ Stack & Queue
+- ⏳ Trees
+- ⏳ Graphs
+ 
+## 📈 Progress
+
+- Total Problems Solved: 28+
+- Platforms: LeetCode
+- Language: Java
+- Practice Frequency: Daily
+
+## 🧠 Approach
+
+Each problem includes:
+- Clean Java code
+- Comments explaining logic
+- Optimized solutions where applicable
 
 ## 🎯 Current Focus
 Strengthening array concepts and problem-solving patterns.
