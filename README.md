@@ -25,7 +25,7 @@ This repository contains topic-wise organized DSA problems that I solve daily.
  
 ## 📈 Progress
 
-- Total Problems Solved: 28+
+- Total Problems Solved: 30+
 - Platforms: LeetCode
 - Language: Java
 - Practice Frequency: Daily
