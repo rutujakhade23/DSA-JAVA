@@ -10,11 +10,10 @@ This repository contains topic-wise organized DSA problems that I solve daily.
 - Java
 
 ## 📚 Topics Covered
-- ## 📚 Topics Covered
 
 - ✅ Arrays
 - ✅ Sorting
-- 🔄 Two Pointers
+- ✅ Two Pointer's 
 - 🔄 Pascal's Triangle
 - ⏳ Strings (Coming Soon)
 - ⏳ Recursion (Coming Soon)
@@ -38,6 +37,7 @@ Each problem includes:
 - Optimized solutions where applicable
 
 ## 🎯 Current Focus
-Strengthening array concepts and problem-solving patterns.
+Strengthening array concepts and problem-solving patterns. 
 
 More topics will be added as I progress.
+
