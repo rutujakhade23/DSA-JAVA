@@ -11,20 +11,21 @@ This repository contains topic-wise organized DSA problems that I solve daily.
 
 ## 📚 Topics Covered
 
+## 📚 Topics Covered
+
 - ✅ Arrays
-- ✅ Sorting
-- ✅ Two Pointer's 
-- 🔄 Pascal's Triangle
-- ⏳ Strings (Coming Soon)
-- ⏳ Recursion (Coming Soon)
-- ⏳ Linked List
+- ✅ Sorting Algorithms
+- ✅ Binary Search
+- 🔄 Linked List *(Currently Learning)*
+- ⏳ Strings *(Coming Soon)*
+- ⏳ Recursion *(Coming Soon)*
 - ⏳ Stack & Queue
 - ⏳ Trees
 - ⏳ Graphs
  
 ## 📈 Progress
 
-- Total Problems Solved: 30+
+- Total Problems Solved: 40+
 - Platforms: LeetCode
 - Language: Java
 - Practice Frequency: Daily
